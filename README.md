@@ -11,12 +11,14 @@ Projeto-modelo
  
  <hr>
  
- <div>
+ <div align="center">
   <div>
   <img src="https://user-images.githubusercontent.com/87542593/213309507-ccaabbb6-120f-46c8-9fc6-e1f134af37c0.jpeg"/ width="700px">
   </div>
   <div>
   <img src="https://user-images.githubusercontent.com/87542593/213310176-6121ed43-d374-4894-9b10-f16a24b02d4b.jpeg"/ width="700px">
   </div>
+  <div>
+  <img src="https://user-images.githubusercontent.com/87542593/213310769-1ec31f15-0262-48ac-bc96-561ea1ad3a4b.jpeg"/ width="700px">
+  </div>
  </div>
-
